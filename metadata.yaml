@@ -1,5 +1,5 @@
 _repo: The-Merchant-of-Venice_1779
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Jews -- Italy -- Drama'
 - !lcc 'PR'
 - !lcsh 'Comedies'
+- GITenberg
 title: The Merchant of Venice
 url: http://www.gutenberg.org/ebooks/1779
